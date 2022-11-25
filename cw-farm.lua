@@ -1,3 +1,5 @@
+-- THE LURAPH UPDATE... THE LURAPH UPDATE IS REAL!!!!!!!!
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
