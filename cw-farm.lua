@@ -1,4 +1,5 @@
 -- THE LURAPH UPDATE... THE LURAPH UPDATE IS REAL!!!!!!!!
+repeat wait() until game:IsLoaded() -- hi
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
